@@ -27,7 +27,7 @@ pip install pyfiglet
 Clone this repository to your local machine:
 
 ```Copy code
-git clone https://github.com/yourusername/crackit.git
+git clone https://github.com/ysfhmtky/Crackit.git
 cd crackit
 ```
 
